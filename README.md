@@ -14,7 +14,8 @@ This repository contains my Git and networking practical exercises performed usi
 - Modified the file and saved changes using `git stash`.
 - Restored changes using `git stash apply`.
 - Verified the changes using `git diff`.
-
+**
+Pending
 ## Task 3: Network IP Information
 - Private IPv4: `192.168.1.25`
 - Subnet mask: `255.255.255.0`
