@@ -1,0 +1,12 @@
+name: Run on Push
+
+on:
+  push:
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print a message
+        run: echo "GitHub Action executed successfully!"
