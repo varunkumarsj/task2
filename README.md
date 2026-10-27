@@ -40,3 +40,23 @@ This repository contains my Git and networking practical exercises performed usi
 - GitHub
 - Visual Studio Code
 - Windows networking commands
+
+
+
+## Basic Networking Commands
+
+1. ping
+   Checks whether another computer or server is reachable.
+   Example: ping google.com
+
+2. ipconfig
+   Displays the computer's IP address, subnet mask, and gateway.
+   Example: ipconfig
+
+3. netstat
+   Displays active network connections and listening ports.
+   Example: netstat -ano
+
+4. nslookup
+   Finds the IP address associated with a domain name.
+   Example: nslookup google.com
